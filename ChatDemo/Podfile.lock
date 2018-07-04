@@ -1,0 +1,24 @@
+PODS:
+  - GzipSwift (4.0.4)
+  - SwiftProtobuf (1.0.3)
+  - SwiftSocket (2.0.2)
+
+DEPENDENCIES:
+  - GzipSwift
+  - SwiftProtobuf
+  - SwiftSocket
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GzipSwift
+    - SwiftProtobuf
+    - SwiftSocket
+
+SPEC CHECKSUMS:
+  GzipSwift: 1a5bc5f7827e09846b0635b5079f1224bc3b1c3a
+  SwiftProtobuf: 5ccc0e4054e37c75800e5744acb2aa80bb72b39c
+  SwiftSocket: 6f4c9c63fbc5c1d61188936bb3c599fd546f40ae
+
+PODFILE CHECKSUM: a2fb312479d4f2c30fdb08560f32173d1b3b816e
+
+COCOAPODS: 1.5.3
