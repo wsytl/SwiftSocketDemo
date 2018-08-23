@@ -11,6 +11,8 @@ import SwiftSocket
 import Gzip
 import SwiftProtobuf
 
+//clone新版本
+
 class ViewController: UIViewController {
     
     //消息输入框
